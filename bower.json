@@ -1,0 +1,12 @@
+{
+  "name": "www",
+  "version": "0.1.0",
+  "homepage": "https://github.com/Artemitdev/new_project",
+  "authors": [
+    "Artem Kravtsov <artemitdev@gmailcom>"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "normalize-css": "normalize.css#~3.0.3"
+  }
+}
